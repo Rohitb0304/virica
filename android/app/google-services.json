@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094268308432",
+    "project_id": "virica-app",
+    "storage_bucket": "virica-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094268308432:android:07727b5c4b22e161a307d5",
+        "android_client_info": {
+          "package_name": "viricaapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094268308432-q9ib426s9drbdnv2207mbaoadelp1r7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5AtVZBJR8nIPvpSZ_cfJhlNeQJYhy-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094268308432-q9ib426s9drbdnv2207mbaoadelp1r7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
